@@ -40,7 +40,7 @@ struct MotivationView: View {
                 .padding(.top, 30)
                 .padding(.leading, 20)
                 
-                QuoteView(quote: "Кто не рискует, тот не пьет шампанское! ofidjfijdifjidjfidjfijdfijdijfidjfijdifjidjfidjfdkpjfoisejogriguhfdisughsduihgursehivjbhisdfbghriubgvbdrbydgfbjvhdfbvidtyghkfhdbvjhdfhgbhfdbgdfehjdffjdfjhdjfhdjfhjdhfjdhfjdhfjdhjfhdjfhjdhfjdhfjhdjfhjdfhjdhfjdhfjhdjfhdjfhjdhfjdfjhdfjhdjfhjdhfjdhfjdhfjhdj")
+                QuoteView(quote: "TEST")
             }
         }
     }
